@@ -1,0 +1,9 @@
+# Gradle
+.gradle/
+build/
+# Eclipse
+bin/
+# IntelliJ
+out/
+# Local libraries
+libs/*.jar
